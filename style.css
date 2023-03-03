@@ -1,0 +1,76 @@
+.nav{
+    padding-top:14px;
+}
+.nav1{
+    border: 1px solid black;
+    padding-bottom: 4pxpx;
+    margin-top: 3px;
+    width:120px ;
+    height:20px ;
+    
+}
+.nav1:hover{
+    color: red;
+    border:1px solid red;
+}
+.nav2{
+    border: 1px solid black;
+    padding-bottom: 4px;
+    width:60px ;
+    height:25px ;
+    
+    
+}
+.nav2:hover{
+color: red;
+border: 1px solid red;
+}
+.nav3{
+    width:35px ;
+    padding-right: 2px;
+}
+
+.nav1{
+    width:130px ;
+    height:25px ;
+}
+/* .nav2{
+    padding-right: 16px;
+} */
+ .nav2{
+    margin-top: 12px;
+    margin-right: 5px;
+ }
+
+.image{
+    margin-top: 10px;
+width: 100%;
+height: 550px;
+
+    background-image:url("https://global.toyota/pages/global_toyota/home/pickup/2023/03/01/001_pc.jpg") ;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+
+
+}
+/* .image:hover{
+    color: rgb(155, 140, 140);
+} */
+.image2{
+     display: flex;
+    flex-direction: column;
+    align-content:flex-end; 
+bottom: 135px;
+ 
+}
+.para{
+    color: white;
+   
+}
+.para3{
+    font-weight: bold;
+} 
+span{
+    font-weight: lighter;
+}
